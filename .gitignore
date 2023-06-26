@@ -1,0 +1,5 @@
+#Ignore Node Modules generated from npm install command
+./node_modules
+
+#Ignore .js files generated from Typescript tsc command
+.js

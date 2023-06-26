@@ -1,0 +1,65 @@
+{
+  "Provider": "Lorem Ipsum",
+  "ContractID": 22,
+  "CustomerID": 11,
+  "ProfileID": 2,
+  "ItemID": 3,
+  "Country": "Lorem Ipsum",
+  "Language": "Lorem Ipsum",
+  "SourceChannel": "Lorem Ipsum",
+  "SourceID": 2,
+  "SourceName": "Lorem Ipsum",
+  "SourceID2": 2,
+  "SourceName2": "Lorem Ipsum",
+  "PublishTime": "Jul 22 2022 13:20:17 GMT+0200",
+  "Headline": "Lorem Ipsum",
+  "Author": "Lorem Ipsum",
+  "Lead": "Lorem Ipsum",
+  "Text": "<p>Lorem Ipsum</p>",
+  "TextType": "ManualTranscription",
+  "ContentURL": "Lorem Ipsum",
+  "MatchingWords": [
+    {
+      "StartTextPosition": 28,
+      "EndTextPosition": 32,
+      "Value": "Lorem Ipsum",
+      "Field": "Lead"
+    },
+    {
+      "StartTextPosition": 70,
+      "EndTextPosition": 74,
+      "Value": "Lorem Ipsum",
+      "Field": "Lead"
+    },
+    {
+      "StartTextPosition": 3,
+      "EndTextPosition": 7,
+      "Value": "Lorem Ipsum",
+      "Field": "Text"
+    },
+    {
+      "StartTextPosition": 467,
+      "EndTextPosition": 471,
+      "Value": "Lorem Ipsum",
+      "Field": "Text"
+    },
+    {
+      "StartTextPosition": 659,
+      "EndTextPosition": 663,
+      "Value": "Lorem Ipsum",
+      "Field": "Text"
+    },
+    {
+      "StartTextPosition": 1022,
+      "EndTextPosition": 1026,
+      "Value": "Lorem Ipsum",
+      "Field": "Text"
+    },
+    {
+      "StartTextPosition": 1141,
+      "EndTextPosition": 1145,
+      "Value": "Lorem Ipsum",
+      "Field": "Text"
+    }
+  ]
+}
